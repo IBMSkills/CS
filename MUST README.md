@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/96506052/167972502-1d2784d5-89a5-493b-87d7-0f841261728e.png)
 
 
-3.Open Jupyter notebook by typing 'jupyter notebook' on Command Prompt. Then, hit enter
+3.Open Jupyter notebook by typing 'jupyter notebook' on Command Prompt. Then, hit Enter key
 
 ![image](https://user-images.githubusercontent.com/96506052/167972668-65ba909b-f476-49b7-ab36-07cdb704b535.png)
 
