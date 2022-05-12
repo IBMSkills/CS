@@ -13,7 +13,7 @@
 
 
 4.Click Upload to choose the required files then click Open
-![image](https://user-images.githubusercontent.com/96506052/167975153-4e30b458-64d2-4030-9eeb-16d33cd7e131.png)
+![image](https://user-images.githubusercontent.com/96506052/167976291-eca10c12-482f-4e74-b547-7adcc7a2b440.png)
 
 
 5.Click each Upload button to upload the file. Uploading column will disappear once you have successfully uploaded the file
