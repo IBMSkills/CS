@@ -1,5 +1,5 @@
 # Steps of uploading file to Jupyter notebook
-1.Download lab 1- lab 9 by clicking Code > Download zip
+1.Download lab 1- lab 9 from GitHub by clicking Code > Download zip
 ![image](https://user-images.githubusercontent.com/96506052/167827180-c3f2239d-692d-43c4-8308-8762de41b168.png)
 
 
@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/96506052/167972502-1d2784d5-89a5-493b-87d7-0f841261728e.png)
 
 
-3.Open Jupyter notebook by typing 'jupyter notebook' on Command Prompt. 
+3.Open Jupyter notebook by typing 'jupyter notebook' on Command Prompt. Then, hit enter
 
 ![image](https://user-images.githubusercontent.com/96506052/167972668-65ba909b-f476-49b7-ab36-07cdb704b535.png)
 
