@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/96506052/167827180-c3f2239d-692d-43c4-8308-8762de41b168.png)
 
 
-2.Extract the downloaded folders.
+2.Extract the downloaded folder.
 
 ![image](https://user-images.githubusercontent.com/96506052/167972502-1d2784d5-89a5-493b-87d7-0f841261728e.png)
 
