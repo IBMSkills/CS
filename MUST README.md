@@ -1,20 +1,19 @@
-# Steps of uploading file to Jupyter notebook
+# Steps of uploading file to Jupyter Notebook
 1.Download lab 1- lab 9 from GitHub by clicking Code > Download zip
-![image](https://user-images.githubusercontent.com/96506052/167827180-c3f2239d-692d-43c4-8308-8762de41b168.png)
-
+![image](https://user-images.githubusercontent.com/96506052/167974758-e9a94201-c682-4e63-8e81-7342dcc43b0c.png)
 
 2.Extract the downloaded folder.
 
 ![image](https://user-images.githubusercontent.com/96506052/167972502-1d2784d5-89a5-493b-87d7-0f841261728e.png)
 
 
-3.Open Jupyter notebook by typing 'jupyter notebook' on Command Prompt. Then, hit Enter key
+3.Open Command Prompt and type 'jupyter notebook'. Then, hit Enter key
 
 ![image](https://user-images.githubusercontent.com/96506052/167972668-65ba909b-f476-49b7-ab36-07cdb704b535.png)
 
 
 4.Click Upload to choose the required files then click Open
-![image](https://user-images.githubusercontent.com/96506052/167827760-03776974-0487-486b-8a4c-1098a49b6904.png)
+![image](https://user-images.githubusercontent.com/96506052/167975153-4e30b458-64d2-4030-9eeb-16d33cd7e131.png)
 
 
 5.Click each Upload button to upload the file. Uploading column will disappear once you have successfully uploaded the file
