@@ -1,5 +1,5 @@
 # Steps of uploading file to Jupyter notebook
-1.In github.com. Download lab 1- lab 9 by clicking Code > Download zip
+1.In https://github.com/IBMSkills/CS. Download lab 1- lab 9 by clicking Code > Download zip
 ![image](https://user-images.githubusercontent.com/96506052/167827180-c3f2239d-692d-43c4-8308-8762de41b168.png)
 
 
